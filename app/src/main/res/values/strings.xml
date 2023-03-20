@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Animaless</string>
+        <string name="tvTitulo">Mi Super Mascota</string>
+        <string name="ivGatito"></string>
+        <string name="etNombres">Nombre de la mascota</string>
+        <string name="rgTipo">Tipo</string>
+        <string name="rbGato">Gato</string>
+        <string name="rbPerro">Perro</string>
+        <string name="btnRegistrar">Registrar</string>
+        <string name="tvResultado"></string>
+        <string name="btnIniciar">Iniciar</string>
+        <string name="ivPatita">Imagen de patita</string>
+</resources>
